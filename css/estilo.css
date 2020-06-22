@@ -149,7 +149,7 @@ body{
 .agenda{
 	padding: 3.1rem 0 0;
 	position: relative;
-	background: url(imagens/fundo.png) no-repeat center;
+	background: url(images/rectangle_1_copy_8.png) no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -221,7 +221,8 @@ body{
 	margin: 4.2rem auto 26px;
 	color:#ffffffff;
 	font-family: Montserrat, sans-serif;
-	font-size: bold;
+	font-size: 1.313472rem;
+	font-weight: bold;
 	letter-spacing: 0.15rem;
 	text-align: center;
 	text-transform: uppercase;
@@ -247,32 +248,19 @@ body{
 	font-family: Montserrat, sans-serif;
 	font-size: 1.313472rem; /*13.13px/ 10px = 1.313rem*/
 	font-weight: bold;
-	letter-spacing: 0.15rem;
+	letter-spacing: 0.15em;
+	line-height: 54px;
+	text-align: center;
 	text-transform: uppercase;
 }
 
-.botao-receba-news-copy-4-holder {
-	margin: 29px auto 0;
-	max-width: 223px;
-	min-height:  54px;
-	background: #f45600;
-	background-position: center center;
-	color: #ffffffff;
-	font-family: Montserrat, sans-serif;
-	font-size: 1.313472rem; /*13.13px / 10px = 1.313rem*/
-	font-weight: bold;
-	letter-spacing: 0.15rem;
-	line-height: 54px;
-	text-align:center;
-	text-transform: uppercase;
-}
 
 .slider{
 	margin: 19rem auto 0;
 	color: #ffffffff;
 	font-size: 4.787623rem; /*47.88px / 10px = 4.788rem*/
 	line-height: 47.37095px;
-	text-align: cneter;
+	text-align: center;
 }
 
 .col-8{
@@ -420,7 +408,7 @@ body{
 	font-size: 3.660732rem; /*36.61px / 10px = 3.66rem*/
 	font-weight: 900;
 	letter-spacing: -0.01em;
-	line-height:47.37095px;
+	line-height: 47.37095px;
 }
 
 .text-17{
@@ -981,4 +969,196 @@ body{
 	}
 }
 
+
+.col-14{
+	margin: 10.6rem auto 0;
+	position: relative;
+}
+
+.text-29{
+	margin: 0 .114754% 0 auto;
+	color: #000000;
+	font-family: Montserrat, sans-serif;
+	letter-spacing: 0.15em;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.text-29{
+	margin: 0 3.114754% 0 auto;
+	color: #000000;
+	font-family: Montserrat, sans-serif;
+	letter-spacing: 0.15em;
+	text-align: right;
+	text-transform: uppercase;
+}
+
+.row-16{
+	left: 3.196721%;
+	margin: 9.8rem auto 0;
+	position: relative;
+	width: 93.60656%;
+}
+
+.rectangle-9-copy-3{
+	float: left;
+	height: 185px;
+	margin: 2px 2.451839%;
+	max-width: 195px;
+	width: 34.15061%;
+	background: #cccccc;
+}
+
+.col-35{
+	float: left;
+	position: relative;
+	width: 63.39755%;
+
+}
+
+.text-30{
+	font-family: Montserrat, sans-serif;
+	font-size: 3.660732rem;
+	font-weight: 900;
+	letter-spacing: -0.01em;
+}
+
+.text-31{
+	margin: 8px 0 0;
+	line-height:  26.43587px;
+}
+
+@media(max-width: 571px){
+	.row-16{
+		left: 0;
+		right: 0;
+		width: 100%;
+		margin-left: 0;
+		margin-right:0;
+	}
+}
+
+@media(max-width: 768px){
+	.row-16{
+		left: 0;
+	}
+}
+
+.row-17{
+	left: 3.114754%;
+	margin: 4.3rem auto 0;
+	position: relative;
+	width: 93.77049%;
+}
+
+.rectangle-9-copy-3-2{
+	float: left;
+	height: 185px;
+	margin: 1px 2.622378% 0 0;
+	max-width: 195px;
+	width: 34.090908%;
+	background: #cccccc;
+}
+
+.col-36{
+	float: left;
+	position: relative;
+	width: 63.286713%;
+}
+
+.text-32{
+	font-family: Montserrat, sans-serif;
+	font-size: 3.660732rem;
+	font-weight: 900;
+	letter-spacing: -0.01em;
+}
+
+.text-33{
+	margin: 9px 0 0;
+	line-height:  26.43587px;
+
+}
+
+@media(max-width: 572px){
+	.row-17{
+		left: 0;
+		right: 0;
+		width: 100%;
+		margin-left:0;
+		margin-right:0;
+
+	}
+}
+
+
+@media(max-width: 768px){
+	.row-17{
+		left: 0;
+	}
+}
+
+.container-7{
+	position: relative;
+}
+
+.colunistas{
+	margin: 7.5rem auto 0;
+	max-width: 1918px;
+	overflow: hidden;
+	padding: 6.1rem 0 25.8rem;
+	position: relative;
+	background: #000000;
+	background-position: center center;
+}
+
+.col-data-wrapper-5{
+	margin: 0 auto;
+	min-height: 865px;
+	position: relative;
+}
+
+.col-22{
+	left: 50%;
+	max-width: 915px;
+	position: absolute;
+	top: 0;
+	width: 48.8%;
+	margin-left: -937.5px;
+}
+
+.layer-holder-2{
+	max-width: 596px;
+	min-height: 149px;
+	padding: 28px 4.262295% 22px;
+	position: relative;
+	width: 65.13661%;
+	background: #f47835;
+	color: #ffffff;
+	font-family: Montserrat, sans-serif;
+	font-size: 3.6600732rem;
+	font-weight: 900;
+	letter-spacing: -0.01em;
+	line-height: 47.37095px;
+	text-transform: uppercase;
+
+}
+
+@media(max-width: 596px){
+	.layer-holder-2{
+		left: 0;
+		right: 0;
+		width: 100%;
+		margin-left:0;
+		margin-right: 0;
+	}
+}
+
+.col-data-wrapper-7{
+	margin: 5.1rem auto 0;
+	position: relative;
+}
+
+.rectangle-9-copy-4{
+	
+}
 
